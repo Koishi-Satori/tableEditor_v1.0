@@ -5,7 +5,7 @@ import java.util.Vector;
 /**
  * @author KKoishi
  * @since java8
- * @data 2021/11/7
+ * @date 2021/11/7
  */
 
 public class FormatStream {
